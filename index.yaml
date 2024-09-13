@@ -3,12 +3,12 @@ entries:
   datascientest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-13T16:42:39.709249687Z"
+    created: "2024-09-13T16:49:12.401787951Z"
     description: A Helm chart for Kubernetes
     digest: 699c50bfc1673aa49ca030997c1fd74ece96acad1fd5aeaa7577a700759c19b0
     name: datascientest
     type: application
     urls:
-    - https://github.com/afarah1208/chart-k8s.git/datascientest-0.1.0.tgz
+    - https://afarah1208.github.io/chart-k8s/datascientest-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-13T16:42:39.708731745Z"
+generated: "2024-09-13T16:49:12.401279881Z"
