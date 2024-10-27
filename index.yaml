@@ -9,6 +9,6 @@ entries:
     name: datascientest
     type: application
     urls:
-    - https://github.com/afarah1208/chart-K8s.git/datascientest-0.1.0.tgz
+    - https://afarah1208.github.io/chart-K8s/datascientest-0.1.0.tgz
     version: 0.1.0
 generated: "2024-10-27T11:26:28.696442989Z"
